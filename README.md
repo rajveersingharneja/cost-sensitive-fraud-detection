@@ -38,5 +38,20 @@ The optimal decision threshold differed significantly from the default 0.5, demo
 - Model explainability using SHAP
 - Evaluation under data drift
 
+## How to Run
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/rajveersingharneja/cost-sensitive-fraud-detection.git
+   cd cost-sensitive-fraud-detection
+   
+2. Install dependencies:
+pip install -r requirements.txt
+
+3. Launch the notebook:
+   jupyter notebook notebooks/01_eda.ipynb
+   
+4. Run the notebook cells sequentially to reproduce the analysis and results.
+
 ## Author
 Rajveer Arneja
